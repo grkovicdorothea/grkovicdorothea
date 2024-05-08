@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dorothea Grkovic
+- I'm a data analyst at Aylo 👾
+- and a Data Science student at LSE + UoL 🦫
+- I love learning about new data science applications!
