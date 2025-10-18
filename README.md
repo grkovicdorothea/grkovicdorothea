@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Dorothea Grkovic
-- I'm a Bioinformatics Intern at CING 🧬
-- and a Data Science student at LSE + UoL 🦫
-- I love learning about new data science applications!
+👋 Hi, I’m Dorothea Grkovic
