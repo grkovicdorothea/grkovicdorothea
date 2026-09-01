@@ -1,2 +1,2 @@
 - Hi, I’m Dorothea.
-- I am a computational biologist. I am currently researching toxin genes in _Staphylococcus aureus_, but for previous projects, check out my pinned repos.
+- I'm a computational biologist. I am currently researching toxin genes in _Staphylococcus aureus_, but for previous projects, check out my pinned repos.
