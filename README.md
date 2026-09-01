@@ -1,3 +1,2 @@
 - Hi, I’m Dorothea.
-- I am a researcher at the University of Warsaw and a visiting researcher at the University of Cambridge.
-- I have worked with Python, R, Bash, SQL, Power BI, Tableau, and Excel, across research, gaming, and consulting.
+- I am a computational biologist. I am currently researching toxin genes in _Staphylococcus aureus_, but for previous projects, check out my pinned repos.__
